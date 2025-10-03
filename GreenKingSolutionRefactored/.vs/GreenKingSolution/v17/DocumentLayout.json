@@ -1,0 +1,1002 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\speakerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\speakerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573B3413-1B08-458F-8BD9-83841AF6105F}|GreeneKingSpeakerWeb\\GreeneKingSpeakerWeb.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakerweb\\controllers\\greenekingcheckercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573B3413-1B08-458F-8BD9-83841AF6105F}|GreeneKingSpeakerWeb\\GreeneKingSpeakerWeb.csproj|solutionrelative:greenekingspeakerweb\\controllers\\greenekingcheckercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\calculators\\feecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\calculators\\feecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\rules\\qualificationrules\\blogruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\rules\\qualificationrules\\blogruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\validators\\sessionvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\validators\\sessionvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\validators\\qualificationvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\validators\\qualificationvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\validators\\basicvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\validators\\basicvalidatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\evaluators\\sessionevaluatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\evaluators\\sessionevaluatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573B3413-1B08-458F-8BD9-83841AF6105F}|GreeneKingSpeakerWeb\\GreeneKingSpeakerWeb.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakerweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573B3413-1B08-458F-8BD9-83841AF6105F}|GreeneKingSpeakerWeb\\GreeneKingSpeakerWeb.csproj|solutionrelative:greenekingspeakerweb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\speakercheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\speakercheckertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\evalutator\\sessionevalutator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\evalutator\\sessionevalutator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\validators\\sessionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\validators\\sessionvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573B3413-1B08-458F-8BD9-83841AF6105F}|GreeneKingSpeakerWeb\\GreeneKingSpeakerWeb.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakerweb\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573B3413-1B08-458F-8BD9-83841AF6105F}|GreeneKingSpeakerWeb\\GreeneKingSpeakerWeb.csproj|solutionrelative:greenekingspeakerweb\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\evalutator\\isessionevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\evalutator\\isessionevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\models\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\models\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\models\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\rules\\validationrules\\lastnamerequiredrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\rules\\validationrules\\lastnamerequiredrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\rules\\validationrules\\ivalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\rules\\validationrules\\ivalidationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\rules\\sessionrules\\sufficientdescriptionrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\rules\\sessionrules\\sufficientdescriptionrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\greenekingspeaker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\greenekingspeaker.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\rules\\sessionrules\\outdatedtechnologyrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\rules\\sessionrules\\outdatedtechnologyrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\rules\\sessionrules\\nonemptyrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\rules\\sessionrules\\nonemptyrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\models\\enums\\registererror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\models\\enums\\registererror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\ispeakerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\ispeakerregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\greenekingspeakertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\greenekingspeakertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{573B3413-1B08-458F-8BD9-83841AF6105F}|GreeneKingSpeakerWeb\\GreeneKingSpeakerWeb.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakerweb\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{573B3413-1B08-458F-8BD9-83841AF6105F}|GreeneKingSpeakerWeb\\GreeneKingSpeakerWeb.csproj|solutionrelative:greenekingspeakerweb\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\repository\\speakerregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\repository\\speakerregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\speakerchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\speakerchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\rules\\sessionrules\\outdatedtechnologyruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\rules\\sessionrules\\outdatedtechnologyruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\rules\\sessionrules\\sufficientdescriptionruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\rules\\sessionrules\\sufficientdescriptionruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\rules\\qualificationrules\\emaildomainruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\rules\\qualificationrules\\emaildomainruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\rules\\sessionrules\\nonemptyruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\rules\\sessionrules\\nonemptyruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\ispeakerchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\ispeakerchecker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\validators\\qualificationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\validators\\qualificationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\rules\\sessionrules\\isessionrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\rules\\sessionrules\\isessionrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\rules\\validationrules\\firstnamerequiredrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\rules\\validationrules\\firstnamerequiredrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\validators\\basicvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\validators\\basicvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\rules\\validationrules\\emailrequiredrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\rules\\validationrules\\emailrequiredrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\rules\\qualificationrules\\iqualificationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\rules\\qualificationrules\\iqualificationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\rules\\qualificationrules\\experiencerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\rules\\qualificationrules\\experiencerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\rules\\qualificationrules\\employerrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\rules\\qualificationrules\\employerrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\rules\\qualificationrules\\emaildomainrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\rules\\qualificationrules\\emaildomainrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\rules\\qualificationrules\\certificationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\rules\\qualificationrules\\certificationrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\rules\\qualificationrules\\browserrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\rules\\qualificationrules\\browserrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\rules\\qualificationrules\\blogrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\rules\\qualificationrules\\blogrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\models\\webbrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\models\\webbrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\models\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\models\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\models\\enums\\browsername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\models\\enums\\browsername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\calculators\\feescalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\calculators\\feescalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\speakerregistertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\speakerregistertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\rules\\qualificationrules\\employerruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\rules\\qualificationrules\\employerruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\rules\\validationrules\\lastnamerequiredruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\rules\\validationrules\\lastnamerequiredruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\rules\\validationrules\\emailrequiredruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\rules\\validationrules\\emailrequiredruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\rules\\validationrules\\firstnamerequiredruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\rules\\validationrules\\firstnamerequiredruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\rules\\qualificationrules\\browserruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\rules\\qualificationrules\\browserruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\rules\\qualificationrules\\experienceruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\rules\\qualificationrules\\experienceruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenekingspeakertests\\validation\\rules\\qualificationrules\\certificationruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\validation\\rules\\qualificationrules\\certificationruletests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\calculators\\ifeecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\calculators\\ifeecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\repository\\ispeakerregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\repository\\ispeakerregisterrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolutionrefactored\\greenkingsolution\\validation\\validators\\ivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\validation\\validators\\ivalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Speaker.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Models\\Speaker.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Models\\Speaker.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Models\\Speaker.cs",
+              "RelativeToolTip": "GreenKingSolution\\Models\\Speaker.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAA/wBIAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:47:58.743Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QualificationValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Validators\\QualificationValidatorTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Validators\\QualificationValidatorTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Validators\\QualificationValidatorTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Validators\\QualificationValidatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:15:34.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SessionValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Validators\\SessionValidatorTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Validators\\SessionValidatorTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Validators\\SessionValidatorTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Validators\\SessionValidatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:18:52.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BlogRuleTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\BlogRuleTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\BlogRuleTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\BlogRuleTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\BlogRuleTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:27:56.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeeCalculatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Calculators\\FeeCalculatorTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Calculators\\FeeCalculatorTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Calculators\\FeeCalculatorTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Calculators\\FeeCalculatorTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:24:33.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SpeakerRegister.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\SpeakerRegister.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\SpeakerRegister.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\SpeakerRegister.cs",
+              "RelativeToolTip": "GreenKingSolution\\SpeakerRegister.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAmwCEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:36:26.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GreeneKingCheckerController.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerWeb\\Controllers\\GreeneKingCheckerController.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerWeb\\Controllers\\GreeneKingCheckerController.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerWeb\\Controllers\\GreeneKingCheckerController.cs",
+              "RelativeToolTip": "GreeneKingSpeakerWeb\\Controllers\\GreeneKingCheckerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:14:08.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BasicValidatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Validators\\BasicValidatorTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Validators\\BasicValidatorTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Validators\\BasicValidatorTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Validators\\BasicValidatorTests.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAAABEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:21:54.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SessionEvaluatorTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Evaluators\\SessionEvaluatorTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Evaluators\\SessionEvaluatorTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Evaluators\\SessionEvaluatorTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Evaluators\\SessionEvaluatorTests.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAAC8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T19:03:53.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerWeb\\Program.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerWeb\\Program.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerWeb\\Program.cs",
+              "RelativeToolTip": "GreeneKingSpeakerWeb\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:12:13.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SessionEvalutator.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Evalutator\\SessionEvalutator.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Evalutator\\SessionEvalutator.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Evalutator\\SessionEvalutator.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Evalutator\\SessionEvalutator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:57:05.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpeakerCheckerTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\SpeakerCheckerTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\SpeakerCheckerTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\SpeakerCheckerTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\SpeakerCheckerTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:33:19.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SessionValidator.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Validators\\SessionValidator.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Validators\\SessionValidator.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Validators\\SessionValidator.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Validators\\SessionValidator.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAcwB4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T15:11:38.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerWeb\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerWeb\\ServiceCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerWeb\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "GreeneKingSpeakerWeb\\ServiceCollectionExtensions.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAACgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:20:41.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ISessionEvaluator.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Evalutator\\ISessionEvaluator.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Evalutator\\ISessionEvaluator.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Evalutator\\ISessionEvaluator.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Evalutator\\ISessionEvaluator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:57:52.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Models\\Session.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Models\\Session.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Models\\Session.cs",
+              "RelativeToolTip": "GreenKingSolution\\Models\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:59:54.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LastNameRequiredRule.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\ValidationRules\\LastNameRequiredRule.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Rules\\ValidationRules\\LastNameRequiredRule.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\ValidationRules\\LastNameRequiredRule.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Rules\\ValidationRules\\LastNameRequiredRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:49:39.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IValidationRule.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\ValidationRules\\IValidationRule.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Rules\\ValidationRules\\IValidationRule.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\ValidationRules\\IValidationRule.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Rules\\ValidationRules\\IValidationRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:50:35.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "OutdatedTechnologyRule.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\SessionRules\\OutdatedTechnologyRule.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Rules\\SessionRules\\OutdatedTechnologyRule.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\SessionRules\\OutdatedTechnologyRule.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Rules\\SessionRules\\OutdatedTechnologyRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:54:47.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GreeneKingSpeaker",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\GreeneKingSpeaker.csproj",
+              "RelativeDocumentMoniker": "GreenKingSolution\\GreeneKingSpeaker.csproj",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\GreeneKingSpeaker.csproj",
+              "RelativeToolTip": "GreenKingSolution\\GreeneKingSpeaker.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-02T18:36:51.998Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "SufficientDescriptionRule.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\SessionRules\\SufficientDescriptionRule.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Rules\\SessionRules\\SufficientDescriptionRule.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\SessionRules\\SufficientDescriptionRule.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Rules\\SessionRules\\SufficientDescriptionRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:55:47.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NonEmptyRule.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\SessionRules\\NonEmptyRule.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Rules\\SessionRules\\NonEmptyRule.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\SessionRules\\NonEmptyRule.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Rules\\SessionRules\\NonEmptyRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:53:31.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterError.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Models\\Enums\\RegisterError.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Models\\Enums\\RegisterError.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Models\\Enums\\RegisterError.cs",
+              "RelativeToolTip": "GreenKingSolution\\Models\\Enums\\RegisterError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:50:45.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerWeb\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerWeb\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerWeb\\WeatherForecast.cs",
+              "RelativeToolTip": "GreeneKingSpeakerWeb\\WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:13:58.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ISpeakerRegister.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\ISpeakerRegister.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\ISpeakerRegister.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\ISpeakerRegister.cs",
+              "RelativeToolTip": "GreenKingSolution\\ISpeakerRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:15:45.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SpeakerChecker.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\SpeakerChecker.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\SpeakerChecker.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\SpeakerChecker.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\SpeakerChecker.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAABgAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:11:08.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GreeneKingSpeakerTests.csproj",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T10:41:46.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OutdatedTechnologyRuleTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\SessionRules\\OutdatedTechnologyRuleTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Rules\\SessionRules\\OutdatedTechnologyRuleTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\SessionRules\\OutdatedTechnologyRuleTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Rules\\SessionRules\\OutdatedTechnologyRuleTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:54:01.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "SpeakerRegisterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Repository\\SpeakerRegisterRepository.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Repository\\SpeakerRegisterRepository.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Repository\\SpeakerRegisterRepository.cs",
+              "RelativeToolTip": "GreenKingSolution\\Repository\\SpeakerRegisterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:01:44.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SufficientDescriptionRuleTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\SessionRules\\SufficientDescriptionRuleTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Rules\\SessionRules\\SufficientDescriptionRuleTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\SessionRules\\SufficientDescriptionRuleTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Rules\\SessionRules\\SufficientDescriptionRuleTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T18:00:52.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "EmailDomainRuleTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\EmailDomainRuleTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\EmailDomainRuleTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\EmailDomainRuleTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\EmailDomainRuleTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:53:30.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "NonEmptyRuleTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\SessionRules\\NonEmptyRuleTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Rules\\SessionRules\\NonEmptyRuleTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\SessionRules\\NonEmptyRuleTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Rules\\SessionRules\\NonEmptyRuleTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:53:15.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "QualificationValidator.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Validators\\QualificationValidator.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Validators\\QualificationValidator.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Validators\\QualificationValidator.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Validators\\QualificationValidator.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:57:58.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ISpeakerChecker.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\ISpeakerChecker.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\ISpeakerChecker.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\ISpeakerChecker.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\ISpeakerChecker.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:55:03.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ISessionRule.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\SessionRules\\ISessionRule.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Rules\\SessionRules\\ISessionRule.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\SessionRules\\ISessionRule.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Rules\\SessionRules\\ISessionRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:52:53.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "BasicValidator.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Validators\\BasicValidator.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Validators\\BasicValidator.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Validators\\BasicValidator.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Validators\\BasicValidator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB8AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T12:59:33.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "EmailRequiredRule.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\ValidationRules\\EmailRequiredRule.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Rules\\ValidationRules\\EmailRequiredRule.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\ValidationRules\\EmailRequiredRule.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Rules\\ValidationRules\\EmailRequiredRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:50:05.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FirstNameRequiredRule.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\ValidationRules\\FirstNameRequiredRule.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Rules\\ValidationRules\\FirstNameRequiredRule.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\ValidationRules\\FirstNameRequiredRule.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Rules\\ValidationRules\\FirstNameRequiredRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:48:38.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IQualificationRule.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\QualificationRules\\IQualificationRule.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Rules\\QualificationRules\\IQualificationRule.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\QualificationRules\\IQualificationRule.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Rules\\QualificationRules\\IQualificationRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:43:19.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ExperienceRule.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\QualificationRules\\ExperienceRule.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Rules\\QualificationRules\\ExperienceRule.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\QualificationRules\\ExperienceRule.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Rules\\QualificationRules\\ExperienceRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:44:13.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmployerRule.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\QualificationRules\\EmployerRule.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Rules\\QualificationRules\\EmployerRule.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\QualificationRules\\EmployerRule.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Rules\\QualificationRules\\EmployerRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:46:44.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EmailDomainRule.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\QualificationRules\\EmailDomainRule.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Rules\\QualificationRules\\EmailDomainRule.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\QualificationRules\\EmailDomainRule.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Rules\\QualificationRules\\EmailDomainRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:47:12.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "CertificationRule.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\QualificationRules\\CertificationRule.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Rules\\QualificationRules\\CertificationRule.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\QualificationRules\\CertificationRule.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Rules\\QualificationRules\\CertificationRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAYAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:45:56.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "BrowserRule.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\QualificationRules\\BrowserRule.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Rules\\QualificationRules\\BrowserRule.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\QualificationRules\\BrowserRule.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Rules\\QualificationRules\\BrowserRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:47:43.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "BlogRule.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\QualificationRules\\BlogRule.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Rules\\QualificationRules\\BlogRule.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Rules\\QualificationRules\\BlogRule.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Rules\\QualificationRules\\BlogRule.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:45:20.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "WebBrowser.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Models\\WebBrowser.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Models\\WebBrowser.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Models\\WebBrowser.cs",
+              "RelativeToolTip": "GreenKingSolution\\Models\\WebBrowser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:05:10.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RegisterResponse.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Models\\RegisterResponse.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Models\\RegisterResponse.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Models\\RegisterResponse.cs",
+              "RelativeToolTip": "GreenKingSolution\\Models\\RegisterResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:50:20.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BrowserName.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Models\\Enums\\BrowserName.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Models\\Enums\\BrowserName.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Models\\Enums\\BrowserName.cs",
+              "RelativeToolTip": "GreenKingSolution\\Models\\Enums\\BrowserName.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:01:31.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FeesCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Calculators\\FeesCalculator.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Calculators\\FeesCalculator.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Calculators\\FeesCalculator.cs",
+              "RelativeToolTip": "GreenKingSolution\\Calculators\\FeesCalculator.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABoAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T11:56:16.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "SpeakerRegisterTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\SpeakerRegisterTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\SpeakerRegisterTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\SpeakerRegisterTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\SpeakerRegisterTests.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAawB4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:24:30.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EmployerRuleTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\EmployerRuleTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\EmployerRuleTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\EmployerRuleTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\EmployerRuleTests.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAqwBAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:59:39.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "LastNameRequiredRuleTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\ValidationRules\\LastNameRequiredRuleTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Rules\\ValidationRules\\LastNameRequiredRuleTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\ValidationRules\\LastNameRequiredRuleTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Rules\\ValidationRules\\LastNameRequiredRuleTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:08:56.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "EmailRequiredRuleTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\ValidationRules\\EmailRequiredRuleTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Rules\\ValidationRules\\EmailRequiredRuleTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\ValidationRules\\EmailRequiredRuleTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Rules\\ValidationRules\\EmailRequiredRuleTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:03:37.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "FirstNameRequiredRuleTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\ValidationRules\\FirstNameRequiredRuleTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Rules\\ValidationRules\\FirstNameRequiredRuleTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\ValidationRules\\FirstNameRequiredRuleTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Rules\\ValidationRules\\FirstNameRequiredRuleTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:07:27.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "BrowserRuleTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\BrowserRuleTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\BrowserRuleTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\BrowserRuleTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\BrowserRuleTests.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAqwDkAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:39:04.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ExperienceRuleTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\ExperienceRuleTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\ExperienceRuleTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\ExperienceRuleTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\ExperienceRuleTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T19:01:22.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "CertificationRuleTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\CertificationRuleTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\CertificationRuleTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\CertificationRuleTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\Validation\\Rules\\QualificationRules\\CertificationRuleTests.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAA8AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:47:49.605Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "IFeeCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Calculators\\IFeeCalculator.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Calculators\\IFeeCalculator.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Calculators\\IFeeCalculator.cs",
+              "RelativeToolTip": "GreenKingSolution\\Calculators\\IFeeCalculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T18:24:49.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "ISpeakerRegisterRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Repository\\ISpeakerRegisterRepository.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Repository\\ISpeakerRegisterRepository.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Repository\\ISpeakerRegisterRepository.cs",
+              "RelativeToolTip": "GreenKingSolution\\Repository\\ISpeakerRegisterRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:04:11.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "IValidator.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Validators\\IValidator.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Validation\\Validators\\IValidator.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolutionRefactored\\GreenKingSolution\\Validation\\Validators\\IValidator.cs",
+              "RelativeToolTip": "GreenKingSolution\\Validation\\Validators\\IValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T17:53:00.57Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

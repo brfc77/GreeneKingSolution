@@ -1,0 +1,203 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolution\\greenkingsolution\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\speaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolution\\greenkingsolution\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolution\\greenekingspeakertests\\speakertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\speakertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolution\\greenekingspeakertests\\greenekingspeakertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3EDED4B5-8DC6-40B6-BDAE-20C36B888826}|GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj|solutionrelative:greenekingspeakertests\\greenekingspeakertests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolution\\greenkingsolution\\greenekingspeaker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\greenekingspeaker.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolution\\greenkingsolution\\webbrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\webbrowser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolution\\greenkingsolution\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolution\\greenkingsolution\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolution\\greenkingsolution\\registererror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\registererror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolution\\greenkingsolution\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\registerresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|c:\\users\\cnwai\\source\\repos\\greenkingsolution\\greenkingsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE167326-1DB4-4B41-BA89-2FDCC9263183}|GreenKingSolution\\GreeneKingSpeaker.csproj|solutionrelative:greenkingsolution\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Speaker.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\Speaker.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Speaker.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\Speaker.cs",
+              "RelativeToolTip": "GreenKingSolution\\Speaker.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAAAIkAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:47:58.743Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GreeneKingSpeaker.csproj",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\GreeneKingSpeaker.csproj",
+              "RelativeDocumentMoniker": "GreenKingSolution\\GreeneKingSpeaker.csproj",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\GreeneKingSpeaker.csproj",
+              "RelativeToolTip": "GreenKingSolution\\GreeneKingSpeaker.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T11:30:52.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GreeneKingSpeakerTests.csproj",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\GreeneKingSpeakerTests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-30T10:41:46.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SpeakerTests.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreeneKingSpeakerTests\\SpeakerTests.cs",
+              "RelativeDocumentMoniker": "GreeneKingSpeakerTests\\SpeakerTests.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreeneKingSpeakerTests\\SpeakerTests.cs",
+              "RelativeToolTip": "GreeneKingSpeakerTests\\SpeakerTests.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAFwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:24:30.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WebBrowser.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\WebBrowser.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\WebBrowser.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\WebBrowser.cs",
+              "RelativeToolTip": "GreenKingSolution\\WebBrowser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:05:10.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\IRepository.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\IRepository.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\IRepository.cs",
+              "RelativeToolTip": "GreenKingSolution\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:04:11.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\UserRepository.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\UserRepository.cs",
+              "RelativeToolTip": "GreenKingSolution\\UserRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T10:01:44.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\Session.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Session.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\Session.cs",
+              "RelativeToolTip": "GreenKingSolution\\Session.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:59:54.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RegisterError.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\RegisterError.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\RegisterError.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\RegisterError.cs",
+              "RelativeToolTip": "GreenKingSolution\\RegisterError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:50:45.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "RegisterResponse.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\RegisterResponse.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\RegisterResponse.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\RegisterResponse.cs",
+              "RelativeToolTip": "GreenKingSolution\\RegisterResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:50:20.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\Program.cs",
+              "RelativeDocumentMoniker": "GreenKingSolution\\Program.cs",
+              "ToolTip": "C:\\Users\\cnwai\\source\\repos\\GreenKingSolution\\GreenKingSolution\\Program.cs",
+              "RelativeToolTip": "GreenKingSolution\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-30T09:46:44.284Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
